@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762016901663",
+    "project_id": "terra-brain-e64f7",
+    "storage_bucket": "terra-brain-e64f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762016901663:android:99e7aae0d76d8a40eb032a",
+        "android_client_info": {
+          "package_name": "com.example.terra_brain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6c71PEEHUK1KcwssZdG5nRrOhFzNofkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
